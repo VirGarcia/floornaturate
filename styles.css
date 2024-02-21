@@ -1,0 +1,51 @@
+html {
+    width: 99.2%;
+}
+
+body {
+    background-image: url("pictures/fondo.png");
+    background-size: cover;
+}
+
+.boton {
+    width: 25px;
+}
+
+.pago {
+    width: 100px;
+}
+
+.logo {
+    width: 40px;
+}
+
+.icono {
+    width: 30px;
+}
+
+.mastercard {
+    height: 52px;
+}
+
+.producto {
+    width: 150px;
+}
+
+/*
+.producto:hover {
+    opacity: 0.5;
+    transition: all 0.2s;
+    cursor: pointer;
+}
+*/
+
+.carousel .carousel-inner img {
+	width: 10%;
+	height: 30em;
+	object-fit: contain;
+	overflow: hidden;
+}
+
+textarea {
+    resize: none !important;
+}
